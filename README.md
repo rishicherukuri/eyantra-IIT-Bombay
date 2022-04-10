@@ -1,3 +1,14 @@
+
+# Binary Search Tree
+
+The Program bianar_search_tree.cpp contains the implemantation for the data structure Binary Search tree, Which is a special type of binary tree.
+
+This data strcuture is very useful for searching effeciently in logarithimic time, for a given 'n' elements in the tree it will give us the output in O(log(n)) time
+
+The program in this repository contains the following methods:-
+    
+
+
 # Rock-Paper-Scissors
 
 How to play
